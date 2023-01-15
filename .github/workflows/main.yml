@@ -9,23 +9,21 @@ jobs :
 
     steps :
       - name : Checkout
-      - uses : actions/checkout@v3
+        uses : actions/checkout@v3
     
       - name : Node.js
-      - uses : action/setup-node@v3
+        uses : action/setup-node@v3
         with : 
           node-vserion : 12.x
       
       - name : install dependcies
-      - run : npm install
+        run : npm install
         
       - name : build app
-      - run : npm run build
+        run : npm run build
         
       - name : deploy app
-      - uses : peaceiris/actions-gh-pages@v3
+        uses : peaceiris/actions-gh-pages@v3
         with : 
           github_token :  ${{ secrets.GH_ACTIONS_TOKEN }}
           publish-dir : ./build
-
-  
