@@ -1,5 +1,6 @@
 {
   "name": "deploy_app",
+  "homepage": "https://kuzuro.github.io/np_react_study_2_deploay_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
