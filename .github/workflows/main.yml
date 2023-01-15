@@ -17,10 +17,10 @@ jobs :
           node-vserion : 12.x
       
       - name : install dependcies
-        run : npm install
+      - run : npm install
         
       - name : build app
-        run : npm run build
+      - run : npm run build
         
       - name : deploy app
       - uses : peaceiris/actions-gh-pages@v3
