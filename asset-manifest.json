@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kuzuro/np_deploy_app/static/css/main.073c9b0a.css",
-    "main.js": "/kuzuro/np_deploy_app/static/js/main.1e0ba156.js",
-    "static/js/787.efab6413.chunk.js": "/kuzuro/np_deploy_app/static/js/787.efab6413.chunk.js",
-    "static/media/logo.svg": "/kuzuro/np_deploy_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/kuzuro/np_deploy_app/index.html",
-    "main.073c9b0a.css.map": "/kuzuro/np_deploy_app/static/css/main.073c9b0a.css.map",
-    "main.1e0ba156.js.map": "/kuzuro/np_deploy_app/static/js/main.1e0ba156.js.map",
-    "787.efab6413.chunk.js.map": "/kuzuro/np_deploy_app/static/js/787.efab6413.chunk.js.map"
+    "main.css": "/np_deploy_app/static/css/main.073c9b0a.css",
+    "main.js": "/np_deploy_app/static/js/main.1758434e.js",
+    "static/js/787.efab6413.chunk.js": "/np_deploy_app/static/js/787.efab6413.chunk.js",
+    "static/media/logo.svg": "/np_deploy_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/np_deploy_app/index.html",
+    "main.073c9b0a.css.map": "/np_deploy_app/static/css/main.073c9b0a.css.map",
+    "main.1758434e.js.map": "/np_deploy_app/static/js/main.1758434e.js.map",
+    "787.efab6413.chunk.js.map": "/np_deploy_app/static/js/787.efab6413.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1e0ba156.js"
+    "static/js/main.1758434e.js"
   ]
 }
